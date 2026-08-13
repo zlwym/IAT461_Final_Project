@@ -14,7 +14,7 @@ st.title("Boston Airbnb Neighbourhood Explorer")
 
 #Load data
 
-df = pd.read_csv("listings(1).csv")
+df = pd.read_csv("listings.csv")
 
 #Clean price column
 
@@ -133,8 +133,7 @@ features = [
     "review_scores_checkin",
     "review_scores_communication",
     "review_scores_location",
-    "review_scores_value",
-    "amenity_count"
+    "review_scores_value"
 ]
 
 #Data on neighbourhoods
