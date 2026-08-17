@@ -4,7 +4,7 @@
 
 [final_project.ipnyb](https://github.com/zlwym/IAT461_Final_Project/blob/main/final_project.ipynb) contains the initial EDA on top of modelling work that has been done. 
 
-[Video walkthrough](https://youtu.be/MJhDnNs0DnQ?si=gK-vCgliUq_EdwDi)
+[Video walkthrough](https://youtu.be/2t_lq8zclAc)
 
 [Streamlit app](https://iat461-finalproject-boston-airbnbs.streamlit.app/)
 
